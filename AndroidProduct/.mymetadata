@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AndroidProduct"
+  id="myeclipse.1463577366327"
+  context-root="/AndroidProduct"
+  j2ee-spec="5.0"
+  archive="AndroidProduct.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
