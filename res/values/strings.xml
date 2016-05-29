@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZBar4Android</string>
+    <string name="BtnScan">开始扫描</string>
+    <string name="Result">扫描结果</string>
+    <string name="BtnBack">返回</string>
+    <string name="Scan">二维码扫描</string>
+    <string name="BtnAbout">关于</string>
+    <string name="ShowMessage">本项目基于ZBar的Android项目修改而成，可以快速地识别二维码、条形码、ISBN图书码。界面参考了微信的界面，基本可以满足我们对于二维码开发的所有需求。本项目作者为秦元培。更多信息请扫描下方的二维码，再次点击关于按钮将隐藏此信息，谢谢！</string>
+</resources>
